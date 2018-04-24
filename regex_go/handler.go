@@ -16,7 +16,7 @@ type Output struct {
 	Matches []string `json:"matches"`
 }
 
-const help = `i/p format:
+const help = `i/p data format:
 {
 	"data": "my Test text with UPPERCASE",
 	"regex": "[A-Z]"
