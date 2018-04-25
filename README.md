@@ -2,6 +2,7 @@
 OpenFAAS function to check Regex (implemented in Go)
 
 This is build as a dummy app to check openfaas-cloud and Status integration
+1
   
 **Example:**
 ```
