@@ -48,5 +48,5 @@ func Handle(req []byte) string {
 	if merr != nil {
 		return fmt.Sprintf("Error: Failed to marshal output %v : %v", op, merr)
 	}
-	return string(mdata)
+	//return string(mdata)
 }
