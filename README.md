@@ -9,6 +9,8 @@ This is build as a dummy app to check openfaas-cloud and Status integration with
 
    
    
+   
+   
 **Example:**
 ```
 $ curl -H "Content-Type: application/json" -X POST http://0341c281.ngrok.io/function/s8sg-regex_go -d '{"data": "The moon is our natural satellite, i.e. it rotates around the Earth!", "regex": "(\\b[^\\s]+\\b)" }'
