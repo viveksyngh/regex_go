@@ -22,7 +22,6 @@ const help = `i/p data format:
 	"regex": "[A-Z]"
 }`
 
-
 // Handle a serverless request
 func Handle(req []byte) string {
 
