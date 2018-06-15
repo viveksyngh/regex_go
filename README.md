@@ -9,7 +9,7 @@ This is build as a dummy app to check openfaas-cloud and Status integration with
   
   
   
-  
+  asdasd
   
 
   
