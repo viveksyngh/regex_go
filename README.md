@@ -1,8 +1,10 @@
 ## regex_go - OpenFAAS function to check Regex
 [![OpenFaaS](https://img.shields.io/badge/openfaas-serverless-blue.svg)](https://www.openfaas.com)
     
-
+```
 [![Status](http://74e23734.ngrok.io/function/of_badge_gen?user=s8sg&repo=regex_go&branch=master)](http://74e23734.ngrok.io/function/of_badge_gen?user=s8sg&repo=regex_go&branch=master)
+```
+
 
 This is build as a dummy app to check openfaas-cloud and Status integration with openfaas deployed at: 
 `74e23734.ngrok.io` and can be reached at `74e23734.ngrok.io/function/s8sg-regex_go` and `74e23734.ngrok.io/function/s8sg-regex_py`
