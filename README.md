@@ -8,8 +8,7 @@ This is build as a dummy app to check openfaas-cloud and Status integration with
 `74e23734.ngrok.io` and can be reached at `74e23734.ngrok.io/function/s8sg-regex_go` and `74e23734.ngrok.io/function/s8sg-regex_py`
   
   
-  
-  asdasd
+
   
 
   
