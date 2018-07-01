@@ -50,4 +50,3 @@ $ curl -H "Content-Type: application/json" -X POST http://0341c281.ngrok.io/func
 }
 ```
 
-## Added for test
