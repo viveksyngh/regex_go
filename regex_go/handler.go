@@ -1,7 +1,6 @@
 package function
 
 import (
-	"encoding/json"
 	"fmt"
 	"regexp"
 )
