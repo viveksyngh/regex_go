@@ -5,7 +5,7 @@ provider:
 functions:
   regex_go:
     lang: go
-    handler: ./regex_invalid
+    handler: ./regex_go
     image: s8sg/regex_go
 
   regex_py:
