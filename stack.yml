@@ -12,3 +12,7 @@ functions:
     lang: python
     handler: ./regex_py
     image: s8sg/regex_py
+  another-go:
+    lang: go
+    handler: ./another-go
+    image: another-go
